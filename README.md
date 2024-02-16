@@ -24,10 +24,12 @@
     <img src="src/Images/AllElementsInTwoBS/AllElements2.png" width="300"/>
 
 ### Bus Routes (Hard)
-> * Time complexity: 
-> * Space complexity:
+> * Time complexity: O(N * M)
+> * Space complexity: O(V+E)
 > * Execution Time:
+    <img src="src/Images/BusRoutes/bus1.png" width="300"/>
 > * Memory:
+    <img src="src/Images/BusRoutes/bus2.png" width="300"/>
 
 ## Longest Valid Parentheses (Impossible)
 

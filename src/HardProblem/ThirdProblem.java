@@ -3,26 +3,18 @@ package HardProblem;
 import java.util.*;
 
 public class ThirdProblem {
-
-
     public int HardestExcercise(int[][] routes, int source, int target){
         if(source == target) return 0;
         Map<Integer, List<Integer>> mapa = new HashMap<>();
         for (int i = 0; i < routes.length; i++) { // {{1, 2, 7}, {3, 6, 7}}, lenght es de 2
 
             for (int recorrer : routes[i]) { // routes[0] = {1, 2, 7}, routes[1] = {3, 6, 7}
-                if(routes[recorrer].length>200){
-                    return 3;
-                }
                 if (!mapa.containsKey(recorrer)) {
                     mapa.put(recorrer, new ArrayList<>());
                 }
                 mapa.get(recorrer).add(i);
             }
         } // generate Map = 1 --> 0, 7--> [0,1]
-        if(routes[2].length>200){
-            return 3;
-        }
         Set<Integer> stopsVisited = new HashSet<>();
         Set<Integer> routeVisited = new HashSet<>();
         Queue<Integer> queue = new LinkedList<>();
