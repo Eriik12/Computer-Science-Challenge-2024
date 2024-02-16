@@ -1,0 +1,13 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ççä8¢›ıÚ1
+e
+java:S3824'"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(¹ÀŒ’8ËÔşşÚ1
+Q
+java:S2864"4Iterate over the "entrySet" instead of the "keySet".(Ö¦Èä8“¢›ıÚ1
+[
+java:S1172#"9Remove these unused method parameters "source", "target".(Ç£Üûÿÿÿÿ8•¢›ıÚ1
+X	java:S125&"<This block of commented-out lines of code should be removed.(ÆÀöÃ8©œıÚ1
+G	java:S106-"+Replace this use of System.out by a logger.(Éî•¾8—¢›ıÚ1
+V
+java:S28644"4Iterate over the "entrySet" instead of the "keySet".(£‰şÂıÿÿÿÿ8™¢›ıÚ1
+L	java:S1067"+Replace this use of System.out by a logger.(µÿııÿÿÿÿ8š¢›ıÚ1
