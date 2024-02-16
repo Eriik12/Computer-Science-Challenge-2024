@@ -1,8 +1,0 @@
-
-t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÄéÆşÚ1
-t	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ì‚ˆÌ8ÄéÆşÚ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞŒáıÿÿÿÿ8ÅéÆşÚ1
-\
-java:S6213":Rename this variable to not match a restricted identifier.(Úáˆûÿÿÿÿ8ÖéÆşÚ1
-L	java:S106!"+Replace this use of System.out by a logger.(ƒìîüıÿÿÿÿ8í÷ÇşÚ1
-X	java:S125+"<This block of commented-out lines of code should be removed.(ó¥şÅ8ÃõÊşÚ1
