@@ -7,7 +7,7 @@
 > For each problem, you'll find an analysis of its time and space complexity, as well as the execution time and memory usage on LeetCode
 
 ### Duplicate Zeros (easy)
-> * Time complexity: O(n^2)
+> * Time complexity: O(n<sup>2</sup>)
 > * Space complexity: O(1)
 > * Execution Time: <br>
     <img src="src/Images/DuplicateZeros/DuplicateZeros1.png" width="300"/>
