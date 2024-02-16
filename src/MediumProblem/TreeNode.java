@@ -1,4 +1,4 @@
-package SecondProblem;
+package MediumProblem;
 
   public class TreeNode {
       int val;
