@@ -22,4 +22,4 @@ F	java:S106q"+Replace this use of System.out by a logger.(¨Şº~8×–¡™Ú1
 k	java:S100‡"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†ŞÈô8í–¡™Ú1
 F
 java:S1659Š"#Declare "start" on a separate line.(šáùÿÿÿÿ8ÖúÊ™Ú1
-^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(Àİ£Øùÿÿÿÿ8ç‚øşÚ1
+^	java:S125Ÿ"<This block of commented-out lines of code should be removed.(Àİ£Øùÿÿÿÿ8õŞø–Ü1

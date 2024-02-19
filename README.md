@@ -3,6 +3,7 @@
 ## Internship 2024-1
 > [!NOTE]
 > Welcome to the LeetCode exercises repository for the Internship 2024-1. <br> <br>
+> My profile: https://leetcode.com/Eriik12/. <br> <br>
 > Here, you'll find various challenges related to Computer Science. <br> <br>
 > For each problem, you'll find an analysis of its time and space complexity, as well as the execution time and memory usage on LeetCode
 
